@@ -1,0 +1,208 @@
+Clade,Base.species,binomial,Min_height_m,Max_height_m,Min_leaf_length_mm,Max_leaf_length_mm,Min_fruit_length_mm,Max_fruit_lenth_mm
+Azorella,1,Azorella allanii,0.05,0.15,20,40,2.5,2.5
+Azorella,1,Azorella roughii,0.05,0.1,10,40,2,2
+Azorella,0,Azorella hookeri,0.05,0.15,15,15,2,3
+Azorella,0,Azorella cockaynei,0.01,0.1,2,4,1.5,1.5
+Azorella,0,Azorella nitens,0.05,0.15,3,4,,2
+Azorella,0,Azorella colensoi,0.01,0.07,2.5,5,3,3
+Brachyscome,1,Brachyscome sinclairii,0.05,0.1,10,30,2,3
+Brachyscome,1,Brachyscome pinnata,0.05,0.1,15,80,,
+Brachyscome,0,Brachyscome humilis,0.05,0.1,5,10,1.5,1.5
+Brachyscome,0,Brachyscome radicata,0.05,0.1,12,60,2.5,4
+Coprosma,1,Coprosma acerosa,,2,7,12,7,7
+Coprosma,1,Coprosma arborea,,10,50,60,7,7
+Coprosma,1,Coprosma dodonaeifolia,2,3,100,110,6,9
+Coprosma,1,Coprosma grandifolia,,6,150,200,7,9
+Coprosma,1,Coprosma lucida,,3,120,170,8,12
+Coprosma,1,Coprosma repens,,8,20,80,10,10
+Coprosma,1,Coprosma rhamnoides,,1,7,12,3,4
+Coprosma,1,Coprosma rigida,,2,10,20,4,6
+Coprosma,1,Coprosma rugosa,,3,10,14,6,8
+Coprosma,1,Coprosma serrulata,,1,40,70,7,8
+Coprosma,1,Coprosma spathulata spathulata,,2,10,20,6,8
+Coprosma,1,Coprosma macrocarpa macrocarpa,,5,90,130,10,25
+Coprosma,1,Coprosma macrocarpa minor,,6,45,90,5,10
+Coprosma,1,Coprosma petriei,0.05,0.1,5,5,6,8
+Coprosma,1,Coprosma rotundifolia,2,3,20,25,4,5
+Coprosma,1,Coprosma virescens,,2,5,9,5,6
+Coprosma,1,Coprosma rubra,,2,10,15,4,6
+Coprosma,1,Coprosma cuneata,,1,10,16,4,5
+Coprosma,0,Coprosma cheesemanii,,0.5,8,11,6,7
+Coprosma,0,Coprosma fowerakeri,,0.6,5,7,4,5
+Coprosma,0,Coprosma dumosa,,7,6.4,12.5,4,7.7
+Coprosma,0,Coprosma foetidissima,,3,30,50,7,10
+Coprosma,0,Coprosma perpusilla perpusilla,0.05,0.1,4.5,7,4,7.5
+Coprosma,0,Coprosma pseudocuneata,,3,15,20,5,6
+Coprosma,0,Coprosma crassifolia,1,2,6,10,5,6
+Coprosma,0,Coprosma atropurpurea,,0.05,4,8.3,12,12
+Coprosma,0,Coprosma cheesemanii 2,,0.5,8,11,6,7
+Deyeuxia,1,Deyeuxia lacustris,0.18,0.3,20,90,2,2
+Deyeuxia,1,Deyeuxia youngii,0.3,1.3,120,350,2.5,3
+Deyeuxia,0,Deyeuxia aucklandica,0.06,0.35,25,150,1.6,2.2
+Deyeuxia,0,Deyeuxia quadriseta,0.15,1.25,25,150,1.5,2
+Deyeuxia,0,Deyeuxia aff quadriseta,0.1,0.25,,,,
+Deyeuxia,0,Deyeuxia avenoides,0.2,1.1,40,150,1.5,2.3
+Elymus/Anthoschne,1,Stenostachys enysii,0.15,0.25,200,200,6,6
+Elymus/Anthoschne,0,Anthosachne aprica,0.25,0.4,200,300,7,10
+Elymus/Anthoschne,0,Anthosachne falcis,0.1,0.2,50,150,6,6.5
+Elymus/Anthoschne,0,Anthosachne kingiana multiflora,0.1,0.25,100,200,7,10
+Elymus/Anthoschne,0,Anthosachne sacandros,0.2,0.9,100,800,,6
+Elymus/Anthoschne,0,Anthosachne solandri,0.2,0.35,210,210,,6.5
+Elymus/Anthoschne,0,Connorochloa tenuis,0.15,0.2,100,150,4.5,5
+Hierochloe,1,Hierochloe novae-zelandiae,0.02,0.1,20,100,2,2
+Hierochloe,0,Hierochloe equiseta,0.15,0.3,150,300,2,2.5
+Hierochloe,0,Hierochloe brunonis,0.1,0.3,70,300,2,2
+Hierochloe,0,Hierochloe fusca,0.3,0.75,300,750,2,2.5
+Hierochloe,0,Hierochloe redolens,0.6,0.7,,700,2,2
+Hydrocotyle,1,Hydrocotyle dissecta,0.1,0.2,10,20,1.5,1.8
+Hydrocotyle,1,Hydrocotyle microphylla,0.05,0.15,5,10,1.3,1.7
+Hydrocotyle,1,Hydrocotyle moschata,0.01,0.05,5,20,1.3,1.5
+Hydrocotyle,0,Hydrocotyle heteromeria,0.1,0.15,5,20,1.3,1.5
+Hydrocotyle,0,Hydrocotyle novae-zeelandiae novae-zeelandiae,0.05,0.15,5,35,2,3.5
+Hydrocotyle,0,Hydrocotyle sulcata,0.05,0.15,3,6,2,2.5
+Hydrocotyle,0,Hydrocotyle novae-zeelandiae montana,0.05,0.1,4,10,2,2
+Hydrocotyle,0,Hydrocotyle hydrophila,0.01,0.05,1,4,1.2,1.8
+Lachnogrostis,1,Lachnagrostis billardierei,0.1,0.6,100,240,1.3,1.8
+Lachnogrostis,1,Lachnagrostis filiformis,0.2,0.7,25,80,0.8,1.3
+Lachnogrostis,1,Lachnagrostis littoralis littoralis,0.05,0.2,10,80,1,1.5
+Lachnogrostis,1,Lachnagrostis littoralis salaria,0.2,0.6,40,150,1.3,1.6
+Lachnogrostis,0,Lachnagrostis leptostachys,0.15,0.35,35,100,1.5,1.5
+Lachnogrostis,0,Lachnagrostis ammobia,0.15,0.35,60,160,2,2
+Lachnogrostis,0,Lachnagrostis elata,0.3,0.8,30,250,1.5,1.8
+Lachnogrostis,0,Lachnagrostis lyallii,0.1,0.5,20,150,1.2,2
+Lachnogrostis,0,Lachnagrostis pilosa pilosa,0.3,0.9,60,280,1.3,1.8
+Lachnogrostis,0,Lachnagrostis uda,0.09,0.35,30,100,1.2,1.8
+Leptinella,1,Leptinella albida,0.05,0.1,4,10,,1.6
+Leptinella,1,Leptinella atrata,0.05,0.1,2,8,1.8,2.8
+Leptinella,1,Leptinella minor,0.05,0.1,10,50,1,1
+Leptinella,1,Leptinella plumosa,0.05,0.1,50,20,,1.9
+Leptinella,1,Leptinella serrulata,0.05,0.1,7,20,,1.4
+Leptinella,0,Leptinella calcarea,0.05,0.1,10,40,,1.6
+Leptinella,0,Leptinella pectinata pectinata,0.05,0.1,,30,,2.1
+Leptinella,0,Leptinella pyrethrifolia linearifolia,0.05,0.1,12.7,38.1,,
+Leptinella,0,Leptinella dioica dioica,0.05,0.1,7,12,,1.9
+Leptinella,0,Leptinella squalida mediana,0.05,0.1,5,10,1.9,1.9
+Leptinella,0,Leptinella pusilla,0.05,0.1,10,60,,1.6
+Leptinella,0,Leptinella traillii traillii,0.05,0.1,10,50,,1.9
+Leptinella,0,Leptinella squalida squalida,0.05,0.1,5,10,1.9,1.9
+Leptinella,0,Leptinella rotundata,0.05,0.1,10,50,,1.9
+Leptinella,0,Leptinella pyrethrifolia pyrethrifolia,0.05,0.1,,30,,2.3
+Leptinella,0,Leptinella dioica,0.05,0.15,7,12,,1.9
+Leptinella,0,Leptinella squalida,0.05,0.1,5,100,,1.9
+Leptinella,0,Leptinella pectinata pectinata 2,0.05,0.15,,30,,2.1
+Leptinella,0,Leptinella dioica dioica 2,0.05,0.15,7,12,,1.9
+Leptinella,0,Leptinella squalida mediana 2,0.05,0.15,5,10,1.9,1.9
+Leptinella,0,Leptinella pusilla 2,0.05,0.1,10,60,,1.6
+Leptinella,0,Leptinella squalida mediana 3,0.05,0.1,5,10,1.9,1.9
+Leptinella,0,Leptinella squalida mediana 4,0.05,0.1,5,10,1.9,1.9
+Leptinella,0,Leptinella rotundata 2,0.05,0.1,10,50,,1.9
+Libertia,1,Libertia micrantha,0.15,0.22,30,100,0.75,1
+Libertia,0,Libertia edgariae,0.15,0.65,120,620,1,1
+Libertia,0,Libertia grandiflora,0.3,1.4,500,500,1,1.5
+Libertia,0,Libertia peregrinans,0.2,0.75,130,700,1,1.5
+Libertia,0,Libertia ixioides,0.2,1.1,550,550,1,2
+Libertia,0,Libertia cranwelliae,0.2,0.9,150,900,1.5,1.5
+Melicytus,1,Melicytus lanceolatus,,5,50,160,4,6
+Melicytus,1,Melicytus macrophyllus,,6,70,150,5,7
+Melicytus,1,Melicytus ramiflorus,,10,50,150,4,5
+Melicytus,0,Melicytus alpinus,0.3,0.6,,12.7,5,5
+Melicytus,0,Melicytus crassifolius,,2,10,20,3,5
+Melicytus,0,Melicytus micranthus,,2,10,25,3,4
+Olearia,1,Olearia arborescens,,4,40,80,2,2
+Olearia,1,Olearia avicenniifolia,,6,50,100,,
+Olearia,1,Olearia fragrantissima,,5,7.5,30,2,2
+Olearia,1,Olearia gardneri,,3,10,35,1,2
+Olearia,0,Olearia nummulariifolia,,3,5,10,3,3
+Olearia,0,Olearia paniculata,,6,30,100,2,3.5
+Plantago,1,Plantago lanigera,0.05,0.1,12,64,0.6,1.5
+Plantago,0,Plantago spathulata,0.05,0.1,18,118,1.1,2.2
+Plantago,0,Plantago picta,0.05,0.1,10,93,0.7,2.3
+Plantago,0,Plantago raoulii,0.05,0.1,21,270,0.6,2.2
+Plantago,0,Plantago triandra,0.05,0.1,6,61,0.5,1.4
+Plantago,0,Plantago unibracteata,0.05,0.1,9,46,0.6,2.2
+Plantago,0,Plantago udicola,0.05,0.1,16,186,1.1,2.5
+Poa,1,Poa acicularifolia acicularifolia,0.1,0.2,5,25,1.5,2
+Poa,1,Poa acicularifolia ophitalis,0.1,0.2,5,25,1.5,2
+Poa,1,Poa anceps anceps,0.1,0.4,100,300,2,2
+Poa,1,Poa anceps polyphylla,0.08,0.2,65,200,1.5,1.5
+Poa,1,Poa astonii,0.1,0.4,100,300,1.5,1.5
+Poa,1,Poa breviglumis,0.05,0.4,20,90,0.9,1
+Poa,1,Poa buchananii,0.07,0.25,15,50,1,1
+Poa,1,Poa orba,0.05,0.3,50,150,1,2
+Poa,1,Poa dipsacea,,0.3,50,200,2,2
+Poa,1,Poa foliosa,,1.5,150,400,2,2
+Poa,1,Poa imbecilla,0.1,0.5,50,120,1,1
+Poa,1,Poa incrassata,0.05,0.15,10,60,1,1.3
+Poa,1,Poa intrusa,,0.6,70,155,2,2
+Poa,1,Poa kirkii,0.2,0.5,75,200,1,1.5
+Poa,1,Poa lindsayi,0.05,0.4,5,15,1,1
+Poa,1,Poa maniototo,,0.1,2.5,15,0.5,1
+Poa,1,Poa matthewsii,0.1,0.2,100,170,1,1
+Poa,1,Poa novae-zelandiae,,0.3,50,150,1.5,2.5
+Poa,1,Poa pusilla,0.05,0.35,50,150,1,1
+Poa,1,Poa ramosissima,0.1,0.2,90,150,1,1
+Poa,1,Poa schistacea,0.1,0.3,45,185,1.5,2.5
+Poa,1,Poa spania,,0.22,,60,1.5,1.5
+Poa,1,Poa sublimis,,0.15,10,50,1,1
+Poa,1,Poa sudicola,,0.25,50,90,,
+Poa,1,Poa xenica,0.6,0.8,,800,,
+Poa,0,Poa cita,0.3,1,200,600,1,1
+Poa,0,Poa chathamica,,0.9,50,300,2,2
+Poa,0,Poa aff cita a,0.3,0.6,,,,
+Poa,0,Poa aff cita b,0.3,0.6,,,,
+Poa,0,Poa litorosa,,1.8,100,650,3,3
+Veronica,1,Veronica ligustrifolia,,1,20,50,3,3
+Veronica,1,Veronica albicans,0.5,1,15,20,4,6
+Veronica,1,Veronica lycopodioides,,1,1.5,2,3,4
+Veronica,1,Veronica pimeleoides,0.06,0.3,5,15,4,4
+Veronica,1,Veronica salicifolia,,5,50,150,,3.5
+Veronica,1,Veronica speciosa,1,2,50,100,,6
+Veronica,1,Veronica stenophylla,,1,50,50,,
+Veronica,1,Veronica stricta,2,3,50,100,,5
+Veronica,1,Veronica amplexicaulis,0.3,0.5,12,15,,
+Veronica,1,Veronica bollonsii,1,2,40,80,,4
+Veronica,1,Veronica decora,0.02,0.03,1.5,4,4,4.5
+Veronica,1,Veronica dieffenbachii,2,3,50,90,,
+Veronica,1,Veronica diosmifolia,1,6,10,30,4,5
+Veronica,1,Veronica elliptica,,2,20,40,6,9
+Veronica,1,Veronica flavida,0.6,10,135,135,1.3,1.3
+Veronica,1,Veronica hectorii,0.1,0.75,2,2.5,2.5,4
+Veronica,1,Veronica townsonii,,2.5,30,80,4,5
+Veronica,1,Veronica treadwellii,0.2,0.4,29,29,1.4,1.4
+Veronica,1,Veronica lyallii,0.2,0.4,5,10,3.5,5
+Veronica,1,Veronica macrantha,,0.3,15,30,,11
+Veronica,1,Veronica melanocaulon,0.2,0.3,35,35,1,1
+Veronica,1,Veronica raoulii,,0.3,6,25,,3.5
+Veronica,1,Veronica salicornioides,,1,,1,4.5,5
+Veronica,1,Veronica senex,0.4,0.8,80,80,0.7,0.7
+Veronica,1,Veronica catarractae,0.1,0.5,10,40,3,4
+Veronica,1,Veronica colostylis,0.1,0.2,15,15,0.6,0.6
+Veronica,1,Veronica cupressoides,1,1.5,1,1.5,2,2
+Veronica,1,Veronica densifolia,0.02,0.05,3,6,3,4
+Veronica,1,Veronica hulkeana,,0.6,30,70,,
+Veronica,1,Veronica lanceolata,0.2,0.4,100,100,1,1
+Veronica,1,Veronica lavaudiana,,0.4,20,30,,
+Veronica,1,Veronica vernicosa,,1,15,15,3,4.5
+Veronica,0,Veronica adamsii,0.5,1.5,100,100,2,2
+Veronica,0,Veronica leiophylla,,2,40,40,,4
+Veronica,0,Veronica macrocarpa,,2.5,60,120,6,12
+Veronica,0,Veronica pinguifolia,0.15,1,10,15,,
+Veronica,0,Veronica strictissima,,2,20,45,,4.5
+Veronica,0,Veronica buchananii,0.1,0.2,3,7,,
+Veronica,0,Veronica corriganii,,2,80,150,4,
+Veronica,0,Veronica subalpina,1,2,25,40,3,4
+Veronica,0,Veronica tairawhiti,2,4,150,150,1.1,1.1
+Veronica,0,Veronica odora,,1.5,10,20,6,10
+Veronica,0,Veronica planopetiolata,,0.04,5,10,3,4
+Veronica,0,Veronica armstrongii,,1,1,1,3,3.5
+Veronica,0,Veronica hookeriana,,0.15,4,12,4,6
+Veronica,0,Veronica baylyi,0.3,1,12,12,,
+Veronica,0,Veronica punicea,1,3,75,75,2.3,2.3
+Veronica,0,Veronica brachysiphon,,1,15,25,4,4
+Veronica,0,Veronica evenosa,,2,15,20,4,4
+Veronica,0,Veronica topiaria,0.8,1.3,12,12,3,4
+Veronica,0,Veronica ochracea,0.15,0.3,1,1,3,3.5
+Veronica,0,Veronica macrocarpa 2,,2.5,60,120,6,12
+Viola,1,Viola filicaulis,0.05,0.1,10,20,1,1.5
+Viola,0,Viola cunninghamii,0.05,0.1,10,30,1.5,1.5
+Viola,0,Viola lyallii,0.1,0.2,10,20,1.5,1.5
